@@ -1,2 +1,4 @@
-# Dartmouth-Final
-Final project for Dartmouth Bootcamp
+# Airbnb in NYC
+
+
+This is my final project where I explore facism and Airbnb.
